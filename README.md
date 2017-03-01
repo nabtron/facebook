@@ -3,7 +3,6 @@
 Stuff related to facebook api
 
 # Common items
-# =============
 
 1:
 --
@@ -29,4 +28,3 @@ returns:
    }
 }
 ````
-

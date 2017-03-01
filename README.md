@@ -2,16 +2,17 @@
 
 Stuff related to facebook api
 
-Common items
-============
+# Common items
+# =============
 
 1:
-==
+--
 
 https://graph.facebook.com/?ids=https://nabtron.com/
 
 returns:
 
+````
 {
    "https://nabtron.com": {
       "og_object": {
@@ -27,4 +28,5 @@ returns:
       "id": "https://nabtron.com"
    }
 }
+````
 
